@@ -94,8 +94,45 @@ git clone https://github.com/your-account/web-workshop-2024.git
 
 これを実行すると、先ほど作成した開発用ディレクトリの中にさらに`web-workshop-2024`というディレクトリが作成され、リポジトリの内容が複製されます。
 
+このディレクトリをVSCodeで開いてください。環境によっては以下のコマンドによってVSCodeを開くことができます。
+
+```sh
+code web-workshop-2024
+```
+
 講習資料もこのリポジトリ内に含まれているため、以降は手元の環境でも講習資料を参照しながら作業を進めることができます。
 
 講習資料を開くとそのソースコードが表示されるため、見た目が異なり様々な記号も表示されています。ソースコードではなく整形表示されたプレビューが見たいときは、画面右上のプレビューを開くボタンを押してください。
 
 ![](./images/markdown-preview.png)
+
+これで、リポジトリのクローンが完了しました。
+
+## 拡張機能の追加インストール
+[第1節](./1_installation.md)でVSCodeの表示を日本語化する拡張機能をインストールする手順を紹介しましたが、他にも開発を支援するための拡張機能が多数提供されています。
+
+講習リポジトリには、この講習で利用する拡張機能を推奨事項として表示するような設定があります。
+
+![](./images/install-recommended-extensions.png)
+
+画面右下にこの表示がある場合は、`インストール`を押して推奨する拡張機能をインストールしてください。
+
+もし表示サれない場合は、`拡張機能`パネルの検索欄に`@recommended`と入力して、推奨される拡張機能をインストールしてください。
+
+![](image.png)
+
+今回の講習でインストールを推奨する拡張機能は以下の通りです。
+
+- Japanese Language Pack for Visual Studio Code
+  - ID: `MS-CEINTL.vscode-language-pack-ja`
+  - VSCodeの表示を日本語化する拡張機能([第1節](./1_installation.md)でインストール済み)
+- Markdown All in One
+  - ID: `yzhang.markdown-all-in-one`
+  - Markdown([第3節](./3_write-markdown.md)参照)を便利に記述できるようになる拡張機能
+- Git Graph
+  - ID: `mhutchie.git-graph`
+  - Gitのコミットをグラフ形式で表示できるようになる拡張機能
+- Live Server
+  - ID: `ritwickdey.LiveServer`
+  - 次回以降の講習で利用
+  - 手元で記述したWebページにブラウザからアクセスできるようになる拡張機能
