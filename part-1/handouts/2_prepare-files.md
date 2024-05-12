@@ -119,7 +119,7 @@ code web-workshop-2024
 
 もし表示サれない場合は、`拡張機能`パネルの検索欄に`@recommended`と入力して、推奨される拡張機能をインストールしてください。
 
-![](image.png)
+![](./images/install-recommended-extensions-2.png)
 
 今回の講習でインストールを推奨する拡張機能は以下の通りです。
 
