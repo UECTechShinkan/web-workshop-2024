@@ -18,6 +18,7 @@ Homebrewはパッケージマネージャーと呼ばれるmacOS向けのツー�
 - `Press RETURN/ENTER to continue or any other key to abort:` と表示されたらEnterキーを押してください。
 - `Installation successful!` と表示されたらインストール終了です。
 - `Run this(these two) command in your terminal to add Homebrew to your PATH:` と表示された場合は、その下に表示されているコマンドをコピー&ペーストして実行してからターミナルを開き直してください。
+  - ここに関しては、不安ならTAを呼んでください。
 
 ## Visual Studio Codeのインストール
 
