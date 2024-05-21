@@ -5,4 +5,8 @@
 
 ## 目次
 
-1. [第1回の振り返り](./handouts/0_recap.md)
+1. [HTMLとは？](./handouts/1_html.md)
+
+### Appendix
+
+1. [HTMLはプログラミング言語ではないのか](./handouts/a1_programing_and_markup.md)
