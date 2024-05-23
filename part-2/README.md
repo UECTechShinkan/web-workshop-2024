@@ -8,6 +8,7 @@
 0. [GitHub CLIのインストール](./handouts/0_install_gh_cli.md)
 1. [HTMLとは？](./handouts/1_what_is_html.md)
 2. [GitHub Pagesの準備](./handouts/2_prepare_pages_repo.md)
+3. [HTMLを書いていこう](./handouts/3_write_html.md)
 
 ### Appendix
 
