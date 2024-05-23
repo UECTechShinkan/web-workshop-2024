@@ -12,5 +12,6 @@
 
 ### Appendix
 
+0. [フォークしたリポジトリを更新しよう](./handouts/a0_sync_fork_repo.md)
 1. [HTMLはプログラミング言語ではないのか](./handouts/a1_programing_and_markup.md)
 2. [HTMLとMarkdownの対応表](./handouts/a2_html_tag_and_markdown.md)
