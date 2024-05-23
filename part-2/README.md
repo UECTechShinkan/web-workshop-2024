@@ -5,7 +5,7 @@
 
 ## 目次
 
-1. [HTMLとは？](./handouts/1_html.md)
+1. [HTMLとは？](./handouts/1_what_is_html.md)
 
 ### Appendix
 
