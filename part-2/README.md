@@ -6,8 +6,9 @@
 ## 目次
 
 0. [GitHub CLIのインストール](./handouts/0_install_gh_cli.md)
-1. [HTMLとは？](./handouts/1_html.md)
+1. [HTMLとは？](./handouts/1_what_is_html.md)
 
 ### Appendix
 
 1. [HTMLはプログラミング言語ではないのか](./handouts/a1_programing_and_markup.md)
+2. [HTMLとMarkdownの対応表](./handouts/a2_html_tag_and_markdown.md)
