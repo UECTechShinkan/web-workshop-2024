@@ -54,7 +54,7 @@ Hello World!
 例3: Nested Element
 
 ```html
-<p>Hello <strong>World!</strong></p>
+<p><strong>Hello</strong> World!</p>
 ```
 
 > [!CAUTION]
