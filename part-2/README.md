@@ -6,6 +6,7 @@
 ## 目次
 
 1. [HTMLとは？](./handouts/1_what_is_html.md)
+2. [GitHub Pagesの準備](./handouts/2_prepare_pages_repo.md)
 
 ### Appendix
 
