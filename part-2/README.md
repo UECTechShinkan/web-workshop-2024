@@ -5,6 +5,7 @@
 
 ## 目次
 
+0. [GitHub CLIのインストール](./handouts/0_install_gh_cli.md)
 1. [HTMLとは？](./handouts/1_html.md)
 
 ### Appendix

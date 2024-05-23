@@ -45,6 +45,7 @@ gh auth login
 ```
 
 普通のGitHubを使うので、カーソル(`>`記号)を`GitHub.com`にした状態でエンターキーを入力してください。デフォルトでGitHub.comが選択されていると思います。
+
 ```sh
 ? What account do you want to log into?  [Use arrows to move, type to filter]
 > GitHub.com
@@ -64,7 +65,7 @@ gh auth login
 
 ```sh
 ? Generate a new SSH key to add to your GitHub account? (Y/n) y
-? Enter a passphrase for your new SSH key (Optional) 
+? Enter a passphrase for your new SSH key (Optional)
 ```
 
 ssh鍵を生成したことがある場合は、以下のように聞かれます。
@@ -79,7 +80,7 @@ ssh鍵を生成したことがある場合は、以下のように聞かれま�
 次に、GitHubにssh鍵を登録するときの、名前を聞かれます。デフォルトで`GitHub CLI`になりますが、名前を変更したい場合は名前を入力し、エンターしてください。
 
 ```sh
-? Title for your SSH key: (GitHub CLI) 
+? Title for your SSH key: (GitHub CLI)
 ```
 
 最後に、GitHubにログインするように促されます。
@@ -96,7 +97,7 @@ ssh鍵を生成したことがある場合は、以下のように聞かれま�
 
 ```
 ! First copy your one-time code: XXXX-XXXX
-- Press Enter to open github.com in your browser... 
+- Press Enter to open github.com in your browser...
 ```
 
 先ほど表示されたワンタイムパスコードを貼り付け、エンターキーか、Continueボタンを押してください。
@@ -114,7 +115,7 @@ Authorize GitHub CLIと表示されます。
 ターミナルで以下のような表示がでていれば、ログイン成功です。
 
 ```
-Press Enter to open github.com in your browser... 
+Press Enter to open github.com in your browser...
 ✓ Authentication complete.
 - gh config set -h github.com git_protocol ssh
 ✓ Configured git protocol
