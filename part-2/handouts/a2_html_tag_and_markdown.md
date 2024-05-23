@@ -20,3 +20,29 @@
 | `<blockquote>`     | `>`            | 引用                      | [MDN blockquote](https://developer.mozilla.org/ja/docs/Web/HTML/Element/blockquote) |
 | `<hr>`             | `---`          | 水平線                    | [MDN hr](https://developer.mozilla.org/ja/docs/Web/HTML/Element/hr) |
 | `<br>`             | `` (2 spaces)| 改行                      | [MDN br](https://developer.mozilla.org/ja/docs/Web/HTML/Element/br) |
+
+## `<a>`要素と`<img>`要素に関する補足
+
+### `<a>`要素
+
+以下の2つは同じ意味になります。
+
+```html
+<a href="https://example.com">example</a>
+```
+
+```markdown
+[example](https://example.com)
+```
+
+### `<img>`要素
+
+以下の2つは同じ意味になります。
+
+```html
+<img alt="alt" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png">
+```
+
+```markdown
+![alt](https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png)
+```
