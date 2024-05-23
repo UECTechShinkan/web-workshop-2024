@@ -42,3 +42,6 @@ Receiving objects: 100% (3/3), done.
 ```
 
 done.と表示されたら前回と同様にVSCodeでディレクトリを開いてください。
+
+> [!IMPORTANT]
+> これ以降、講習資料のリポジトリとGitHub Pagesのリポジトリは両方開いた状態で講習を進めていきます。
