@@ -39,6 +39,17 @@ font-size: 20px;
 他にも指定できるプロパティは数多くあります。
 詳しくは、[Appendix 1. プロパティについて詳しく](./a1_style_properties.md) を見てください。
 
+### [補足説明]カラーコードについて
+
+色の指定は、色の名前で行う他に、カラーコード（`#ffffff`、`#414bb2`）、rgb 値（`rgb(224, 224, 244)`）で行うことができます。
+
+カラーコード、rgb については、
+
+- [<hex-color> - 開発者向けのウェブ技術 | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/hex-color)
+- [<color> - 開発者向けのウェブ技術 | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/color_value)
+
+を参照してください。
+
 ## 実践
 
 早速使ってみましょう。

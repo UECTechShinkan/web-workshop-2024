@@ -101,7 +101,7 @@ p {
 
 ### 実践
 
-前節で書いた `h1` タグの `style` 属性に指定した、`color: white; background-color: red;` を、インライン CSS で記述してみましょう。
+前節で書いた `h1` タグの `style` 属性に指定した、`color: white; background-color: red;` を、内部スタイルシート で記述してみましょう。
 
 一旦、`style` 属性を消して、
 
