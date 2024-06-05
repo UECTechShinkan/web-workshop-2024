@@ -17,7 +17,7 @@ h2 {
   color: #17288b;
 }
 
-.header-bar {
+.header-nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -25,17 +25,13 @@ h2 {
   height: 5rem;
 
   background-color: #17288b;
-  color: #fff;
+  color: #ffffff;
 
   padding: 1rem;
 }
 
-.header-logo {
-}
-
 .header-menu {
   display: flex;
-  justify-content: space-between;
 
   list-style-type: none;
 }
@@ -44,7 +40,7 @@ h2 {
   margin: 0 1rem;
 }
 
-.header-image {
+.top-banner {
   display: block;
 
   width: 100%;
@@ -95,14 +91,14 @@ h2 {
   padding: 0 1rem;
 
   background-color: #000;
-  color: #fff;
+  color: #ffffff;
 
   font-weight: bold;
 }
 
 .news-list .news:first-child {
   background-color: #e8e803;
-  color: #888;
+  color: #888888;
 }
 
 .news-list .news:nth-child(2) {
@@ -116,7 +112,7 @@ h2 {
 footer {
   background-color: #17288b;
 
-  color: #fff;
+  color: #ffffff;
 }
 
 .footer-nav {
@@ -129,9 +125,6 @@ footer {
   justify-content: space-between;
 }
 
-.footer-nav .footer-univ-info {
-}
-
 .footer-nav .footer-logo {
   font-size: 2rem;
   font-weight: bold;
@@ -142,17 +135,17 @@ footer {
   justify-content: center;
   align-items: center;
 
-  color: #fff;
+  color: #ffffff;
 
   list-style-type: none;
 }
 
-.sns-list .sns {
+.sns-list li {
   margin: 0 1rem;
 }
 
-.sns-list .sns a {
-  color: #fff;
+.sns-list li a {
+  color: #ffffff;
 
   text-decoration: none;
   font-weight: bold;
