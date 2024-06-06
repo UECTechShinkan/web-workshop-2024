@@ -48,7 +48,7 @@ h2 {
 
 .card-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 
   width: 100%;
 
@@ -59,27 +59,27 @@ h2 {
   list-style-type: none;
 }
 
-.card-list .card {
+.card-list li {
   padding: 1rem;
 
   border: 1px solid #ccc;
 }
 
-.card-list .card h4 {
+.card-list li h4 {
   font-size: 1rem;
 }
 
-.card-list .card p {
+.card-list li p {
   font-size: 0.8rem;
 }
 
 .news-list {
   list-style-type: none;
 
-  padding: 1rem;
+  margin: 1rem;
 }
 
-.news-list .news {
+.news-list li {
   display: flex;
   align-items: center;
 
@@ -96,16 +96,16 @@ h2 {
   font-weight: bold;
 }
 
-.news-list .news:first-child {
+.news-list li:first-child {
   background-color: #e8e803;
   color: #888888;
 }
 
-.news-list .news:nth-child(2) {
+.news-list li:nth-child(2) {
   background-color: #e65100;
 }
 
-.news-list .news:last-child {
+.news-list li:last-child {
   background-color: #25b7c0;
 }
 
