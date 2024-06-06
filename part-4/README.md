@@ -10,3 +10,5 @@
 2. [実際に WEB サイトを作ろう（1/3）（Flexbox・Grid について）](./handouts/2_make-website-1.md)
 3. [実際に WEB サイトを作ろう（２/3）](./handouts/3_make-website-2.md)
 4. [実際に WEB サイトを作ろう（３/3）](./handouts/4_make-website-3.md)
+
+- 付録 1. [CSS のプロパティについての補足説明](./handouts/a1_css-properties.md)
